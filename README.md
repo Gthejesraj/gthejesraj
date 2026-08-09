@@ -6,10 +6,12 @@
   <a href="https://github.com/Gthejesraj?tab=repositories">Projects</a>
 </p>
 
-<h1 align="center">Thejes Raj Gangadhar</h1>
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Thejes Raj Gangadhar - AI systems, retrieval pipelines, and data products" width="100%" />
+</p>
 
 <p align="center">
-  I build AI systems, retrieval pipelines, and data products that move from notebook experiments into usable software.
+  <strong>Designing the layer between model capability and product reliability.</strong>
 </p>
 
 <p align="center">
@@ -18,16 +20,16 @@
 
 ---
 
-### Now
+### Current Focus
 
 I am currently focused on production-minded AI work: agentic LLM workflows, RAG systems, model evaluation, and uncertainty-aware optimization. My favorite problems sit in the space between model quality and system reliability, where a strong prototype becomes something people can actually use.
 
-Recent work includes:
+I care about:
 
-- Fine-tuning and evaluating transformer models for classification and generation.
-- Building retrieval-augmented QA pipelines over technical documents.
-- Designing multi-agent systems for search, analysis, and recommendation.
-- Extending supply-chain optimization workflows with conformal prediction and chance constraints.
+- Retrieval that returns the right context, not just more context.
+- Agents with clean handoffs, observable reasoning, and bounded behavior.
+- Evaluation loops that explain failure instead of hiding it behind one score.
+- Interfaces and repos that make technical work easy to inspect.
 
 ---
 
@@ -35,14 +37,14 @@ Recent work includes:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Amazon Review Sentiment DistilBERT](https://github.com/Gthejesraj/amazon-review-sentiment-distilbert) | Fine-tunes DistilBERT for large-scale Amazon review sentiment classification. | PyTorch, Transformers, scikit-learn |
-| [Blake Poetry Character GPT](https://github.com/Gthejesraj/blake-poetry-character-gpt) | Implements a compact GPT-style transformer from scratch for character-level text generation. | PyTorch, Transformers, NLP |
-| [SPADE Semantic Image Synthesis](https://github.com/Gthejesraj/spade-semantic-image-synthesis) | Generates realistic images from semantic inputs with a SPADE / Pix2Pix-style GAN. | PyTorch, torchvision, GANs |
-| [WHO Report RAG Question Answering](https://github.com/Gthejesraj/who-report-rag-question-answering) | Builds a hybrid retrieval and reranking pipeline for answering questions over WHO reports. | RAG, BM25, embeddings, OpenAI |
-| [Landscape Generation with Stable Diffusion LoRA](https://github.com/Gthejesraj/landscape-generation-stable-diffusion-lora) | Fine-tunes Stable Diffusion with LoRA adapters for landscape image generation. | Diffusers, LoRA, PEFT |
-| [Agentic E-Commerce Shopping Assistant](https://github.com/Gthejesraj/agentic-ecommerce-shopping-assistant) | Coordinates search, price comparison, sentiment analysis, and recommendations through specialized agents. | Python, Gemini, Hugging Face, SerpApi |
-| [Research Paper Knowledge Graph](https://github.com/Gthejesraj/research-paper-knowledge-graph) | Creates a semantic knowledge graph for research papers with graph storage and embeddings. | Neo4j, embeddings, Python |
-| [Data Engineering Pipeline Project](https://github.com/Gthejesraj/data-engineering-pipeline-project) | Implements a modern analytics pipeline with orchestration and transformation layers. | Airflow, dbt, dashboards |
+| [WHO Report RAG Question Answering](https://github.com/Gthejesraj/who-report-rag-question-answering) | Hybrid retrieval, reranking, and grounded answer generation over WHO reports. | RAG, BM25, embeddings, OpenAI |
+| [Agentic E-Commerce Shopping Assistant](https://github.com/Gthejesraj/agentic-ecommerce-shopping-assistant) | Search, price comparison, sentiment analysis, and recommendation through specialized agents. | Python, Gemini, Hugging Face, SerpApi |
+| [Amazon Review Sentiment DistilBERT](https://github.com/Gthejesraj/amazon-review-sentiment-distilbert) | DistilBERT fine-tuning for large-scale Amazon review sentiment classification. | PyTorch, Transformers, scikit-learn |
+| [Landscape Generation with Stable Diffusion LoRA](https://github.com/Gthejesraj/landscape-generation-stable-diffusion-lora) | Stable Diffusion fine-tuning with LoRA adapters for landscape image generation. | Diffusers, LoRA, PEFT |
+| [SPADE Semantic Image Synthesis](https://github.com/Gthejesraj/spade-semantic-image-synthesis) | Conditional GAN for semantic-map-to-image generation with SPADE and Pix2Pix ideas. | PyTorch, torchvision, GANs |
+| [Blake Poetry Character GPT](https://github.com/Gthejesraj/blake-poetry-character-gpt) | Compact GPT-style transformer from scratch for character-level text generation. | PyTorch, Transformers, NLP |
+| [Research Paper Knowledge Graph](https://github.com/Gthejesraj/research-paper-knowledge-graph) | Semantic knowledge graph for research papers with graph storage and embeddings. | Neo4j, embeddings, Python |
+| [Data Engineering Pipeline Project](https://github.com/Gthejesraj/data-engineering-pipeline-project) | Modern analytics pipeline with orchestration and transformation layers. | Airflow, dbt, dashboards |
 
 ---
 
@@ -65,7 +67,7 @@ Recent work includes:
 
 ---
 
-### Notes
+### Operating Notes
 
 I like projects with a clear product surface: not just a model score, but the retrieval strategy, evaluation loop, serving layer, and user workflow around it.
 

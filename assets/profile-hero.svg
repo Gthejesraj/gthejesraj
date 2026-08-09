@@ -1,0 +1,119 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Thejes Raj Gangadhar profile hero</title>
+  <desc id="desc">Animated portfolio banner for AI systems, retrieval, and data engineering work.</desc>
+  <style>
+    :root {
+      --bg: #0b0d10;
+      --panel: #111419;
+      --muted: #8b949e;
+      --text: #f5f7fa;
+      --line: #30363d;
+      --blue: #82aaff;
+      --green: #7ee787;
+      --amber: #ffd166;
+    }
+
+    .grid { stroke: #242932; stroke-width: 1; opacity: .55; }
+    .hairline { stroke: var(--line); stroke-width: 1; }
+    .title { font: 700 52px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: var(--text); letter-spacing: -1px; }
+    .subtitle { font: 400 22px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #a8b3c2; }
+    .small { font: 500 15px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #a8b3c2; }
+    .tag { font: 600 13px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #d7dde7; }
+
+    .scan {
+      stroke-dasharray: 220 780;
+      animation: scan 5.5s cubic-bezier(.16, 1, .3, 1) infinite;
+    }
+
+    .pulse-a { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+    .pulse-b { animation: pulse 2.8s ease-in-out .55s infinite; transform-origin: center; }
+    .pulse-c { animation: pulse 2.8s ease-in-out 1.1s infinite; transform-origin: center; }
+
+    .float { animation: float 7s ease-in-out infinite; }
+    .float-slow { animation: float 8.5s ease-in-out .8s infinite; }
+
+    @keyframes scan {
+      0% { stroke-dashoffset: 900; opacity: .18; }
+      15% { opacity: 1; }
+      70% { opacity: 1; }
+      100% { stroke-dashoffset: -180; opacity: .18; }
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: .38; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.18); }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .scan, .pulse-a, .pulse-b, .pulse-c, .float, .float-slow { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0d10"/>
+      <stop offset="0.55" stop-color="#10141b"/>
+      <stop offset="1" stop-color="#0b0d10"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="158" y1="242" x2="1044" y2="242" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7ee787"/>
+      <stop offset="0.52" stop-color="#82aaff"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(860 118) rotate(124) scale(380 280)">
+      <stop stop-color="#82aaff" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#82aaff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <path class="grid" d="M80 60H1120M80 110H1120M80 160H1120M80 210H1120M80 260H1120M80 310H1120"/>
+  <path class="grid" d="M120 40V320M220 40V320M320 40V320M420 40V320M520 40V320M620 40V320M720 40V320M820 40V320M920 40V320M1020 40V320M1120 40V320"/>
+
+  <g class="float">
+    <rect x="75" y="68" width="106" height="34" rx="17" fill="#111419" stroke="#30363d"/>
+    <circle cx="96" cy="85" r="5" fill="#7ee787"/>
+    <text x="112" y="90" class="tag">available for AI work</text>
+  </g>
+
+  <g class="float-slow">
+    <rect x="908" y="62" width="214" height="34" rx="17" fill="#111419" stroke="#30363d"/>
+    <text x="929" y="84" class="tag">models into usable software</text>
+  </g>
+
+  <text x="80" y="158" class="title">Thejes Raj Gangadhar</text>
+  <text x="82" y="196" class="subtitle">AI systems, retrieval pipelines, and data products.</text>
+
+  <path class="hairline" d="M158 242C250 204 319 279 418 242C516 205 575 200 662 242C747 283 817 210 910 242C960 260 1005 252 1044 234"/>
+  <path class="scan" d="M158 242C250 204 319 279 418 242C516 205 575 200 662 242C747 283 817 210 910 242C960 260 1005 252 1044 234" stroke="url(#signal)" stroke-width="4" stroke-linecap="round"/>
+
+  <g filter="url(#soft)" opacity=".45">
+    <circle cx="418" cy="242" r="28" fill="#82aaff"/>
+    <circle cx="662" cy="242" r="28" fill="#7ee787"/>
+    <circle cx="910" cy="242" r="28" fill="#ffd166"/>
+  </g>
+
+  <circle class="pulse-a" cx="418" cy="242" r="7" fill="#82aaff"/>
+  <circle class="pulse-b" cx="662" cy="242" r="7" fill="#7ee787"/>
+  <circle class="pulse-c" cx="910" cy="242" r="7" fill="#ffd166"/>
+
+  <g>
+    <rect x="80" y="286" width="102" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="103" y="306" class="small">RAG</text>
+    <rect x="194" y="286" width="150" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="218" y="306" class="small">agentic AI</text>
+    <rect x="356" y="286" width="118" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="380" y="306" class="small">ML eval</text>
+    <rect x="486" y="286" width="152" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="510" y="306" class="small">data systems</text>
+  </g>
+</svg>
