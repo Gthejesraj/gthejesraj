@@ -1,18 +1,89 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Extending a published supply-chain optimization framework with conformal prediction and chance-constrained optimization in CVXPY — quantifying uncertainty so inventory decisions hold up under real demand variability.<br><br>👯 I'm looking to collaborate on<br>Agentic LLM systems, RAG pipelines, and ML evaluation tooling — especially projects where the hard part is making the system reliable in production, not just accurate in a notebook.<br><br>🤝 I'm looking for help with<br>Turning my research and lab projects (WOS agentic orchestrator, multimodal classification) into clean, well-documented open-source repos that others can actually run and build on.<br><br>🌱 I'm currently learning<br>Production model-serving and systems reliability — the unglamorous side of ML where things fall apart under real load, plus deeper distributed-systems fundamentals.<br><br>💬 Ask me about<br>Fine-tuning a 32B model with QLoRA, why a 57%→81% accuracy jump lived in the serving layer and not the model, or how to debug an agentic pipeline end to end.<br><br>⚡ Fun fact<br>The best model improvement I ever shipped wasn't a model change at all — it was finding the bug hiding in the infrastructure underneath it.
+<p align="center">
+  <a href="mailto:gthejesraj@gmail.com">Email</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/Gthejesraj/portfolio">Portfolio</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/Gthejesraj?tab=repositories">Projects</a>
+</p>
 
+<h1 align="center">Thejes Raj Gangadhar</h1>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Thejes Raj Gangadhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gthejesraj@gmail.com) 
+<p align="center">
+  I build AI systems, retrieval pipelines, and data products that move from notebook experiments into usable software.
+</p>
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gthejesraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gthejesraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gthejesraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <sub>Generative AI / Machine Learning / Data Engineering / Agentic Systems</sub>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Gthejesraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Now
+
+I am currently focused on production-minded AI work: agentic LLM workflows, RAG systems, model evaluation, and uncertainty-aware optimization. My favorite problems sit in the space between model quality and system reliability, where a strong prototype becomes something people can actually use.
+
+Recent work includes:
+
+- Fine-tuning and evaluating transformer models for classification and generation.
+- Building retrieval-augmented QA pipelines over technical documents.
+- Designing multi-agent systems for search, analysis, and recommendation.
+- Extending supply-chain optimization workflows with conformal prediction and chance constraints.
+
+---
+
+### Selected Work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Amazon Review Sentiment DistilBERT](https://github.com/Gthejesraj/amazon-review-sentiment-distilbert) | Fine-tunes DistilBERT for large-scale Amazon review sentiment classification. | PyTorch, Transformers, scikit-learn |
+| [Blake Poetry Character GPT](https://github.com/Gthejesraj/blake-poetry-character-gpt) | Implements a compact GPT-style transformer from scratch for character-level text generation. | PyTorch, Transformers, NLP |
+| [SPADE Semantic Image Synthesis](https://github.com/Gthejesraj/spade-semantic-image-synthesis) | Generates realistic images from semantic inputs with a SPADE / Pix2Pix-style GAN. | PyTorch, torchvision, GANs |
+| [WHO Report RAG Question Answering](https://github.com/Gthejesraj/who-report-rag-question-answering) | Builds a hybrid retrieval and reranking pipeline for answering questions over WHO reports. | RAG, BM25, embeddings, OpenAI |
+| [Landscape Generation with Stable Diffusion LoRA](https://github.com/Gthejesraj/landscape-generation-stable-diffusion-lora) | Fine-tunes Stable Diffusion with LoRA adapters for landscape image generation. | Diffusers, LoRA, PEFT |
+| [Agentic E-Commerce Shopping Assistant](https://github.com/Gthejesraj/agentic-ecommerce-shopping-assistant) | Coordinates search, price comparison, sentiment analysis, and recommendations through specialized agents. | Python, Gemini, Hugging Face, SerpApi |
+| [Research Paper Knowledge Graph](https://github.com/Gthejesraj/research-paper-knowledge-graph) | Creates a semantic knowledge graph for research papers with graph storage and embeddings. | Neo4j, embeddings, Python |
+| [Data Engineering Pipeline Project](https://github.com/Gthejesraj/data-engineering-pipeline-project) | Implements a modern analytics pipeline with orchestration and transformation layers. | Airflow, dbt, dashboards |
+
+---
+
+### Tools I Reach For
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-111111?style=flat&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Neo4j-111111?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Airflow-111111?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-111111?style=flat&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+### Notes
+
+I like projects with a clear product surface: not just a model score, but the retrieval strategy, evaluation loop, serving layer, and user workflow around it.
+
+If you are working on RAG, agentic AI, ML evaluation, or data systems, I am always interested in thoughtful collaboration.
+
+<details>
+  <summary>GitHub activity</summary>
+  <br />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gthejesraj&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gthejesraj&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  </p>
+</details>
+
+---
+
+<p align="center">
+  <sub>Designed as a quiet portfolio surface: concise, project-first, and easy to scan.</sub>
+</p>
