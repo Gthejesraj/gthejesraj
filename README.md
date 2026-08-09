@@ -1,140 +1,18 @@
-# Hi, I'm Thejes Raj Gangadhar — turning data into decisions
+# 💫 About Me:
+🔭 I'm currently working on<br>Extending a published supply-chain optimization framework with conformal prediction and chance-constrained optimization in CVXPY — quantifying uncertainty so inventory decisions hold up under real demand variability.<br><br>👯 I'm looking to collaborate on<br>Agentic LLM systems, RAG pipelines, and ML evaluation tooling — especially projects where the hard part is making the system reliable in production, not just accurate in a notebook.<br><br>🤝 I'm looking for help with<br>Turning my research and lab projects (WOS agentic orchestrator, multimodal classification) into clean, well-documented open-source repos that others can actually run and build on.<br><br>🌱 I'm currently learning<br>Production model-serving and systems reliability — the unglamorous side of ML where things fall apart under real load, plus deeper distributed-systems fundamentals.<br><br>💬 Ask me about<br>Fine-tuning a 32B model with QLoRA, why a 57%→81% accuracy jump lived in the serving layer and not the model, or how to debug an agentic pipeline end to end.<br><br>⚡ Fun fact<br>The best model improvement I ever shipped wasn't a model change at all — it was finding the bug hiding in the infrastructure underneath it.
 
-> Data Scientist | ML Engineer | M.S. in Data Science (in progress)  
-> Designing, training, and deploying models that deliver measurable impact.
 
----
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Thejes Raj Gangadhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gthejesraj@gmail.com) 
 
-## 🔧 My Story as an ML Pipeline
-
-```mermaid
-flowchart LR
-    A[Data Ingestion<br/>Schooling] --> B[Feature Engineering<br/>Skills] --> C[Model Training<br/>Experience] --> D[Hyperparameter Tuning<br/>M.S. Now] --> E[Monitoring & Ops<br/>Impact]
-```
-
-### 📥 Data Ingestion = Schooling
-
-- B.E. in Computer Science & Engineering, Visvesvaraya Technological University, Bangalore, India — 2019–2023
-  - Relevant Coursework: Python, Java, DBMS, Big Data, Cloud Computing, NLP, Data Structures
-- M.S. in Data Science (in progress), San Jose State University, San Jose, USA — 2024–2026
-  - Relevant Coursework: Data Warehouse & Pipeline, Distributed Systems, Machine Learning, Big Data Technologies
-
-### 🧪 Feature Engineering = Skills
-
-**Programming:** Python • Java • C • SQL • R • JavaScript • HTML/CSS • Shell scripting  
-**ML & DS:** Logistic Regression • Random Forest • SVM • K-Means • PCA • A/B Testing • Pandas • Numpy • Scikit-learn • TensorFlow • Keras • PyTorch • OpenCV  
-**Generative AI & LLMs:** LLMs • RAG • LangChain • OpenAI  
-**DevOps:** Docker • Kubernetes • Jenkins • Terraform • CI/CD  
-**Cloud & Big Data:** AWS (EC2, S3, Lambda, SageMaker) • GCP • Azure • Snowflake • Databricks • Apache Spark  
-**Other:** Git • GitHub • GitLab
-
-### 🧠 Model Training = Experience
-
-- Research Assistant — Wilkin Lab, SJSU (Oct 2024 – Feb 2025)
-  - Applied clustering & anomaly detection on remote sensing data, reducing manual effort −15%
-  - Enhanced fire risk classification with predictive models, improving precision
-
-- Data Scientist — Handlkart (May 2023 – Aug 2024)
-  - Built recommendation system (collaborative + content-based), boosting sales +15%
-  - Automated ETL & preprocessing (Python/SQL), cutting manual work −30% and reporting latency −22%
-  - Collaborated on ML pipelines for deployment, reducing latency −18%
-
-- Software Development Intern — Nexturn India Pvt Ltd (Dec 2022 – May 2023)
-  - Built interactive React website with advanced component architecture
-  - Automated backend processes (Python/Java), optimizing performance for scalable apps
-
-### ⚙️ Hyperparameter Search = M.S. (Now)
-
-Currently pursuing my M.S. in Data Science, focusing on scalable ML, distributed systems, and retrieval‑augmented generation. Open to internships, research collaborations, and applied ML roles.
-
-### 🚀 Currently Learning
-
-- MLOps
-- LLMOps  
-- RAG (Retrieval-Augmented Generation)
-
-### 📈 Monitoring & Ops = Impact
-
-- Customer sales uplift +15% (recommendation system)
-- Reporting latency −22% (ETL optimization)
-- Manual effort reduced −15% (research automation)
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Gthejesraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Gthejesraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gthejesraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Gthejesraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧪 Selected Experiments (Projects)
-
-- Internal Knowledge Assistant with LLM & RAG (Jan 2025)
-  - Built Q&A assistant with RAG for internal docs, cutting support load −16%
-  - `LangChain • OpenAI • Streamlit`
-
-- San Francisco Crime Pattern Analysis (Nov 2024)
-  - Designed ETL pipelines in Airflow + Snowflake, improving processing time −25% and decision‑making efficiency
-  - `Airflow • dbt • Snowflake • Power BI`
-
-- Containerized Travel Website Deployment (May 2023)
-  - Developed scalable web app with Docker + Jenkins CI/CD, reducing deployment errors −75%
-  - `Docker • Jenkins • CI/CD`
-
----
-
-## 📚 Publications
-
-- Implementing a Travel Website using Dockers — Mat Journals (Sep 2023)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Activity
-
-![Thejes Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gthejesraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gthejesraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gthejesraj&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=8B949E&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E)
-
----
-
-## 📫 Contact & Links
-
-- 💼 **LinkedIn:** [linkedin.com/in/thejesraj](https://linkedin.com/in/thejesraj)
-- 🐙 **GitHub:** [github.com/Gthejesraj](https://github.com/Gthejesraj)
-- 📧 **Email:** [gthejesraj@gmail.com](mailto:gthejesraj@gmail.com)
-- 📍 **Location:** San Jose, CA
-
----
-
-## 🚀 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech! Feel free to reach out if you'd like to:
-- 🤝 Collaborate on ML/Data Science projects
-- 💡 Discuss emerging technologies in AI/ML
-- 🎯 Explore internship or research opportunities
-- ☕ Grab a virtual coffee and chat about tech
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Gthejesraj&style=flat-square&color=58A6FF)
-  
-  ---
-  
-  *Last updated: January 2025*
-  
-</div> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
