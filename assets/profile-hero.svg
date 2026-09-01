@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Thejes Raj Gangadhar profile hero</title>
-  <desc id="desc">Animated portfolio banner for AI systems, retrieval, and data engineering work.</desc>
+  <desc id="desc">Animated portfolio banner for developer tools, API reliability, and AI systems.</desc>
   <style>
     :root {
       --bg: #0b0d10;
@@ -80,18 +80,18 @@
   <path class="grid" d="M120 40V320M220 40V320M320 40V320M420 40V320M520 40V320M620 40V320M720 40V320M820 40V320M920 40V320M1020 40V320M1120 40V320"/>
 
   <g class="float">
-    <rect x="75" y="68" width="106" height="34" rx="17" fill="#111419" stroke="#30363d"/>
+    <rect x="75" y="68" width="136" height="34" rx="17" fill="#111419" stroke="#30363d"/>
     <circle cx="96" cy="85" r="5" fill="#7ee787"/>
-    <text x="112" y="90" class="tag">available for AI work</text>
+    <text x="112" y="90" class="tag">building WireMend</text>
   </g>
 
   <g class="float-slow">
-    <rect x="908" y="62" width="214" height="34" rx="17" fill="#111419" stroke="#30363d"/>
-    <text x="929" y="84" class="tag">models into usable software</text>
+    <rect x="878" y="62" width="244" height="34" rx="17" fill="#111419" stroke="#30363d"/>
+    <text x="899" y="84" class="tag">runtime evidence into fixes</text>
   </g>
 
   <text x="80" y="158" class="title">Thejes Raj Gangadhar</text>
-  <text x="82" y="196" class="subtitle">AI systems, retrieval pipelines, and data products.</text>
+  <text x="82" y="196" class="subtitle">Developer tools for API reliability and AI systems.</text>
 
   <path class="hairline" d="M158 242C250 204 319 279 418 242C516 205 575 200 662 242C747 283 817 210 910 242C960 260 1005 252 1044 234"/>
   <path class="scan" d="M158 242C250 204 319 279 418 242C516 205 575 200 662 242C747 283 817 210 910 242C960 260 1005 252 1044 234" stroke="url(#signal)" stroke-width="4" stroke-linecap="round"/>
@@ -107,13 +107,13 @@
   <circle class="pulse-c" cx="910" cy="242" r="7" fill="#ffd166"/>
 
   <g>
-    <rect x="80" y="286" width="102" height="30" rx="15" fill="#111419" stroke="#30363d"/>
-    <text x="103" y="306" class="small">RAG</text>
-    <rect x="194" y="286" width="150" height="30" rx="15" fill="#111419" stroke="#30363d"/>
-    <text x="218" y="306" class="small">agentic AI</text>
-    <rect x="356" y="286" width="118" height="30" rx="15" fill="#111419" stroke="#30363d"/>
-    <text x="380" y="306" class="small">ML eval</text>
-    <rect x="486" y="286" width="152" height="30" rx="15" fill="#111419" stroke="#30363d"/>
-    <text x="510" y="306" class="small">data systems</text>
+    <rect x="80" y="286" width="142" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="104" y="306" class="small">API repair</text>
+    <rect x="234" y="286" width="178" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="258" y="306" class="small">runtime evidence</text>
+    <rect x="424" y="286" width="146" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="448" y="306" class="small">source maps</text>
+    <rect x="582" y="286" width="136" height="30" rx="15" fill="#111419" stroke="#30363d"/>
+    <text x="606" y="306" class="small">AI systems</text>
   </g>
 </svg>
